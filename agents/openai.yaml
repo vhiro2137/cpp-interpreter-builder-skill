@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Interpreter Builder"
+  short_description: "Design and build modern C++ interpreters and bytecode VMs"
+  default_prompt: "Use $cpp-interpreter-builder to inspect my project and implement the next verifiable interpreter stage."

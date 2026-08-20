@@ -1,0 +1,8 @@
+{
+  "namespace": "lang",
+  "base": "Expr",
+  "nodes": {
+    "LiteralExpr": [["Value", "value"], ["SourceSpan", "span"]],
+    "VariableExpr": [["Token", "name"]]
+  }
+}
